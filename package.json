@@ -1,0 +1,22 @@
+{
+  "name": "number-in-full",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wfabyo/number-in-full.git"
+  },
+  "author": "wellynnson venancio",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wfabyo/number-in-full/issues"
+  },
+  "homepage": "https://github.com/wfabyo/number-in-full#readme",
+  "devDependencies": {
+    "jest": "^27.3.1"
+  }
+}
